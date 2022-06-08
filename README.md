@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Surafelll
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in everyything
+- 🌱 I’m currently learning CS
+- 💞️ I’m looking to collaborate on coding
+- 📫 How to reach me ....Surafelwende9@gmail.com
+- - 📫 How to reach me 2 ....Surafelwondimagegn01@gmail.com
 
 <!---
 Surafelll/Surafelll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
