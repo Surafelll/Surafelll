@@ -3,7 +3,8 @@
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" />
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=surafelll&label=Profile%20views&color=0e75b6&style=plastic" alt="surafelll" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=surafelll&label=Profile%20views&color=0e75b6&style=plastic" alt="surafelll" /> </p>
+
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surafelll" alt="surafelll" /></a> </p>
 
