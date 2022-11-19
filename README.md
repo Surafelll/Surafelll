@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Surafel</h1>
 <h3 align="center">A Passionate Developer From Ethiopia</h3>
 
-<img align="center" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" />
+<img align="center" alt="coding" width="500" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surafelll&label=Profile%20views&color=0e75b6&style=flat" alt="surafelll" /> </p>
 
@@ -9,9 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/suraphel2022" target="blank"><img src="https://img.shields.io/twitter/follow/suraphel2022?logo=twitter&style=for-the-badge" alt="suraphel2022" /></a> </p>
 
-- 💬 Ask me about **react ,flutter**
-
-- 📫 How to reach me **surafelwondimagegn01@gmail.com**
+- 📫 How to reach me **surafelwondimagegnhailu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
