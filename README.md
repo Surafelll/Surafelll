@@ -2,13 +2,12 @@
 <h3 align="center">Born To Code!</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=surafelll&label=Profile%20views&color=0e75b6&style=flat" alt="surafelll" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=surafelll&label=Profile%20views&color=0e75b6&style=plastic" alt="surafelll" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surafelll" alt="surafelll" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/suraphel2022" target="blank"><img src="https://img.shields.io/twitter/follow/suraphel2022?logo=twitter&style=for-the-badge" alt="suraphel2022" /></a> </p>
-
-- 💬 Ask me about **react ,flutter**
 
 - 📫 How to reach me **surafelwondimagegn01@gmail.com**
 
@@ -25,6 +24,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surafelll&show_icons=true&theme=dracula&locale=en&layout=compact" alt="surafelll" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surafelll&show_icons=true&theme=dracula&locale=en" alt="surafelll" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surafelll&show_icons=true&theme=dracula&cache_seconds=1800&locale=en" alt="surafelll" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surafelll&" alt="surafelll" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surafelll&theme=dark" alt="surafelll" /></p>
