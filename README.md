@@ -7,7 +7,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surafelll" alt="surafelll" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/suraphel2022" target="blank"><img src="https://img.shields.io/twitter/follow/suraphel2022?logo=twitter&style=for-the-badge" alt="suraphel2022" /></a> </p>
+<p align="right"> <a href="https://twitter.com/suraphel2022" target="blank"><img src="https://img.shields.io/twitter/follow/suraphel2022?logo=twitter&style=for-the-badge" alt="suraphel2022" /></a> </p>
 
 - 📫 How to reach me **surafelwondimagegn01@gmail.com**
 
